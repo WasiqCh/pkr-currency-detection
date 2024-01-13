@@ -9,7 +9,7 @@ st.title('Pakistani Currency Detection')
 
 # Defining the sidebar
 st.sidebar.title('About Dev')
-st.sidebar.info('This app is developed by Wasiq Nadeem, a 3rd Semester student of Computer Science at ARID University')
+st.sidebar.info('This app is developed by Wasiq Nadeem, Mobeen Ali, Ayesha Noor, 3rd Semester students of Computer Science at ARID University')
 st.sidebar.title('About App')
 st.sidebar.info('This is a simple app to detect the currency of a given image, The app is built using Tensorflow, Keras and Streamlit')
 st.sidebar.title('How to use')
